@@ -3,4 +3,3 @@ node_modules
 views
 public
 rest.http
-database.js
