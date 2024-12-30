@@ -111,4 +111,4 @@ app.get("/blogs/:id", (req,res)=>{
 })
 
 
-app.listen(8000)
+app.listen(8000, ()=> {console.log("server started at 8000")})
